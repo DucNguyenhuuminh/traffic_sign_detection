@@ -1,0 +1,30 @@
+Class_id,Name
+0,No parking
+1,Go over the roundabout
+2,Right-of-way at the next intersection
+3,Priority road
+4,Yield
+5,Stop
+6,No vehicles
+7,No entry
+8,Dangerous curve to left
+9,Dangerous curve to right
+10,Double curve
+11,Bumby road
+12,Slippery road
+13,Road narrowed on the right
+14,Road work
+15,Pedestrians
+16,Childen crossing
+17,Bicycles crossing
+18,Turn right ahead
+19,Turn left ahead
+20,Ahead only
+21,Go straight or right
+22,Go straight or left
+23,Go this way on the right
+24,Go this way on the left
+25,No left turn
+26,No right turn
+27,No automobiles
+28,No stopping
